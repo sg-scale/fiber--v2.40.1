@@ -1,6 +1,6 @@
 module github.com/gofiber/fiber/v2
 
-go 1.19
+go 1.26.0
 
 require (
 	github.com/mattn/go-colorable v0.1.13
@@ -8,7 +8,7 @@ require (
 	github.com/mattn/go-runewidth v0.0.14
 	github.com/valyala/bytebufferpool v1.0.0
 	github.com/valyala/fasthttp v1.41.0
-	golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab
+	golang.org/x/sys v0.50.0
 )
 
 require (
